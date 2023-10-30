@@ -8,7 +8,7 @@ import './assets/main.css'
 
 import DataTable from 'datatables.net-vue3';
 import DataTablesCore from 'datatables.net';
-import Editor from '@datatables.net/editor-2023-11-04-dt';   // <-- crash
+import Editor from '@datatables.net/editor-2023-11-04-dt';   // <-- crash!
 
 const app = createApp(App)
 
